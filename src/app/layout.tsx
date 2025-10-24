@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "HomeSphere 3D - Furniture with AR Preview",
+  description: "Revolutionary furniture shopping with 3D and AR preview. See exactly how items look in your home before you buy. Fast delivery across Pakistan.",
 };
 
 export default function RootLayout({
